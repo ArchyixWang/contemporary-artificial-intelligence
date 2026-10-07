@@ -3,7 +3,7 @@ __pycache__/
 .venv/
 venv/
 outputs/
-train_data.csv
-test_data_unlabeled.csv
+data/
+*.csv
 *.joblib
 .DS_Store
